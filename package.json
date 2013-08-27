@@ -1,6 +1,6 @@
 {
-  "name": "trondheim-dc-2012",
-  "version": "0.0.2",
+  "name": "trondheim-dc-2013",
+  "version": "0.1.3",
   "dependencies": {
     "express": "3.0.0rc3"
   },
